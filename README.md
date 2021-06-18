@@ -1,4 +1,4 @@
-# Classification_wk10
+# Credit Risk ML Classification
 
 Risky business program creates several machine-learning models to help predict credit risk.  Focusing on a few specific scores too see how accurate the models are in predicting true high credit risk people (high recall, balance and geometric scores), this program helps banks deal with highly imbalanced populations.  
 
